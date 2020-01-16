@@ -1,0 +1,6 @@
+env/prod/.terraform/*
+env/prod/terraform.tfvars.me
+env/prod/terraform.tfstate*
+env/non-prod/.terraform/*
+env/non-prod/terraform.tfvars.me
+env/non-prod/terraform.tfstate*
