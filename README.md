@@ -1,4 +1,4 @@
-# AWS S3 create Bitcket with terraform fro multi env
+# AWS S3 create Bitcket with terraform for multi env
 
 s3 bucket create for non-prod and prod using terraform
 
